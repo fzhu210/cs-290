@@ -1,0 +1,33 @@
+body {
+  background-color: lightblue;
+}
+
+h1{
+  text-align: center;
+}
+
+.carousel-item img {
+  max-height: 500px; 
+  max-width: 378px;
+  margin: auto;
+}
+
+.carousel-control-prev{
+  width: 200px;
+}
+.carousel-control-next{
+
+  width: 200px;
+
+}
+#scroll{
+  width: 400px;
+  height: 200px;
+  border: solid;
+  margin: auto;
+  overflow: scroll;
+/*overflow box source: https://www.w3schools.com/css/css_overflow.asp
+*/
+}
+.text{
+  text-align: center;
